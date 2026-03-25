@@ -1,3 +1,12 @@
+
+<!-
+CONFIG
+FULL_NAME: Nicolas Andres Mora Calderon
+GITHUB_USER: nicolas12321232
+EMAIL: namora-2025b@corhuila.edu.co
+CODE_ORGANIZATION: code-corhuila
+-->
+
 ## Hi there 👋
 
 <!--
